@@ -4,8 +4,8 @@
 A mellékelt forráskód alapján készítsünk egy Maven buildet, melynek a segítségével automatikusan futtatható JAR fájl készíthető.
 A Maven projekt a következő modulokból kell, hogy álljon:
 - spaceinvaders parent modul
--- spaceinvaders-sprites almodul
--- spaceinvaders-app almodul
+- spaceinvaders-sprites almodul
+- spaceinvaders-app almodul
 
 A forráskódok letölthetők innen: TODO
 
