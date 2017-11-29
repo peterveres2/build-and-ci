@@ -9,8 +9,13 @@ A Maven projekt a következő modulokból kell, hogy álljon:
 
 A forráskódok letölthetők innen: TODO
 
+Az elkészült projektet konfiguráljunk fel Jenkins alá egy Pet projectet, vagy akár az órán elkezdett Calculator projectet, úgy hogy a következő metrikákat nyerjük ki a build során:
 
-Aki eddig (2016. december 11.) beküldte annak Jacoco nélkül elfogadom a beadandót 5-re, aki most küldi annak csak 4-es ha hiányzik a Jacoco.
+- Unit Test eredmények
+- Unit Test Coverage
+- FindBugs
+- CheckStyle
+
 
 ## 2. A Beadandó formája
 A következő dolgokat kérem szállítani:
