@@ -9,7 +9,7 @@ A Maven projekt a következő modulokból kell, hogy álljon:
 
 A forráskódok letölthetők innen: TODO
 
-Az elkészült projektet konfiguráljunk fel Jenkins alá egy Pet projectet, vagy akár az órán elkezdett Calculator projectet, úgy hogy a következő metrikákat nyerjük ki a build során:
+Az elkészült projektet konfiguráljunk fel Jenkins alá úgy, hogy a következő metrikákat nyerjük ki a build során:
 
 - Unit Test eredmények
 - Unit Test Coverage
