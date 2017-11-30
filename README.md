@@ -3,13 +3,13 @@
 ## 1. A Beadandó Feladat
 A mellékelt forráskód alapján készítsünk egy Maven buildet, melynek a segítségével automatikusan futtatható JAR fájl készíthető.
 A Maven projekt a következő modulokból kell, hogy álljon:
-* spaceinvaders parent modul
+* spaceinvaders parent project
 * spaceinvaders-app almodul
 * spaceinvaders-sprites almodul
 
 Az elkészült JAR-nak futtathatónak kell lennie, a belépési pont: Game.class
 
-A forráskódok letölthetők innen: TODO
+A forráskódok letölthetők innen: https://github.com/peterveres2/build-and-ci/tree/master/spaceinvaders
 
 Az elkészült projektet konfiguráljunk fel Jenkins alá úgy, hogy a következő metrikákat nyerjük ki a build során:
 
@@ -27,6 +27,6 @@ A következő dolgokat kérem szállítani:
 1. ScreenShot vagy nyers log az utolsó Jenkins buildről
 
 ## 3. Határidő
-TODO:
+2017.12.21
 
 Mindezt zip / tar.gz formátumban a következő címre: peter_veres2@epam.com, ELTE/PPKE Beadandó tárgy megjelöléssel.
