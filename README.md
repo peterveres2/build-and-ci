@@ -7,6 +7,7 @@ A Maven projekt a következő modulokból kell, hogy álljon:
 * spaceinvaders-app almodul
 * spaceinvaders-sprites almodul
 
+Az elkészült JAR-nak futtathatónak kell lennie, a belépési pont: Game.class
 
 A forráskódok letölthetők innen: TODO
 
