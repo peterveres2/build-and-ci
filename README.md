@@ -9,7 +9,7 @@ A Maven projekt a következő modulokból kell, hogy álljon:
 
 Az elkészült JAR-nak futtathatónak kell lennie, a belépési pont: Game.class
 
-A forráskódok letölthetők innen: TODO
+A forráskódok letölthetők innen: https://github.com/peterveres2/build-and-ci/tree/master/spaceinvaders
 
 Az elkészült projektet konfiguráljunk fel Jenkins alá úgy, hogy a következő metrikákat nyerjük ki a build során:
 
