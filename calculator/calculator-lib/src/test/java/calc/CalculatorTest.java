@@ -15,7 +15,6 @@ public class CalculatorTest {
      */
     @Test
     public void testAdd() {
-        System.out.println("add");
         int a = 12;
         int b = 30;
         Calculator instance = new Calculator();
