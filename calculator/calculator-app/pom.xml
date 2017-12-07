@@ -23,14 +23,5 @@
 		</dependency>
 	</dependencies>
 
-	<distributionManagement>
-		<repository>
-			<name>MyCo Internal Repository</name>
-			<url>http://localhost:8081/repository/ELTE-CI-Releases/</url>
-		</repository>
-		<snapshotRepository>
-			<name>Your Snapshot Repository</name>
-			<url>http://localhost:8081/repository/ELTE-CI-Snapshots/</url>
-		</snapshotRepository>
-	</distributionManagement>
+
 </project>
